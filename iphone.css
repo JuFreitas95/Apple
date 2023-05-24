@@ -100,6 +100,17 @@ h2 {
     cursor: pointer
 }
 
+.botao:hover {
+    background: #c1c1c1;
+}
+    
+
+
+.botao:active{
+    background: #81a5c4;
+}
+
+
 .troca-cor {
     width: 40px;
     height: 40px;
