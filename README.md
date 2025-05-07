@@ -11,8 +11,7 @@
 <h3>Onde o usuario pode clicar na cor desejada e poder visualizar o modelo 
 do celular com a cor que escolher.</h3>
 <br>
-  
-  <img src="https://raw.githubusercontent.com/JuFreitas95/Apple/b8b7dd2e9b9cd83d872f526697e5128c24c87795/img/desktop1.png">
+
   <br>
 <img src="https://raw.githubusercontent.com/JuFreitas95/Apple/b8b7dd2e9b9cd83d872f526697e5128c24c87795/img/desktop2.png">
   <br>
