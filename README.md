@@ -16,9 +16,7 @@
 do celular com a cor que escolher.</h3>
 <br>
 
-  <br>
-<img src="https://raw.githubusercontent.com/JuFreitas95/Apple/b8b7dd2e9b9cd83d872f526697e5128c24c87795/img/desktop2.png">
-  <br>
+
   <img src="https://raw.githubusercontent.com/JuFreitas95/Apple/b8b7dd2e9b9cd83d872f526697e5128c24c87795/img/desktop3.png"
        <br>
   <img src="https://raw.githubusercontent.com/JuFreitas95/Apple/b8b7dd2e9b9cd83d872f526697e5128c24c87795/img/desktop4.png">
