@@ -1,6 +1,8 @@
 <h1 align="center">Apple</h1>
 <br>
 <h2>Este é um projeto da Apple, que utilizei as tecnologias :
+
+  <br>
   <br>
 
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=w" alt="html-logo"/>
